@@ -2,7 +2,6 @@
 // hover over it and either click the red lightbulb, or press
 // ALT + ENTER to "Add Junit4 to Classpath". This will allow
 // you to run the test cases!
-
 import org.junit.*;
 import static org.junit.Assert.assertEquals;
 
